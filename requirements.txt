@@ -1,1 +1,8 @@
+streamlit
+pandas
+numpy
 matplotlib
+pmdarima
+statsmodels
+xgboost
+scikit-learn
